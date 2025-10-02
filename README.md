@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debjeet Sen</h1>
 <h3 align="center">An ambitious full-stack developer from India.</h3>
 
-- 🔭 I’m currently working on [FlowGuard](github.com)
+- 🔭 I’m currently working on Automated DNS Resolver Benchmarking with YANG
 
 - 🌱 I’m currently learning **php,redis**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **I am Happy as a Single Person**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Automated DNS Resolver Benchmarking with YANG
 
-- 🌱 I’m currently learning **php,redis**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Anything**
 
